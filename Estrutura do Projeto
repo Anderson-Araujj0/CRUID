@@ -1,0 +1,13 @@
+CrudWithMySQL/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── crudapp/
+│   │   │   │   │   ├── Main.java
+│   │   │   │   │   ├── DatabaseConnection.java
+│   │   │   │   │   ├── User.java
+│   │   │   │   │   ├── UserDAO.java
+├── README.md
+├── .gitignore
+├── pom.xml (opcional, se usar Maven)
